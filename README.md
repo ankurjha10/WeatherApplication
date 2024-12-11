@@ -21,7 +21,7 @@
 <h3>🔧 Installation</h3>
 <ol>
     <li>Clone this repository to your local machine:
-        <pre><code>git clone https://github.com/ankurjha10/CodeClauseInternship_Weather-Application.git</code></pre>
+        <pre><code>git clone https://github.com/ankurjha10/WeatherApplication.git</code></pre>
     </li>
     <li>Open the project in your IDE (e.g., IntelliJ IDEA).</li>
     <li>Ensure all dependencies are installed, if any external libraries are used.</li>
