@@ -1,5 +1,4 @@
 <h1 align="center">🌦️ Weather Application 🌦️</h1>
-<p align="center">A project created as part of the Code Clause Internship.</p>
 
 <hr>
 
